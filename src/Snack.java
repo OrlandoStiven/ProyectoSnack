@@ -21,4 +21,11 @@ public class Snack {
     public void setPrecio(double precio){
         this.precio = precio;
     }
+
+   @Override
+    public String toString(){
+        return  "Id: %d\nNombre: %s\n Precio: %2.f".formatted(id,nombre,precio);
+   }
+
+
 }
