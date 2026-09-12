@@ -24,7 +24,7 @@ public class Snack {
 
    @Override
     public String toString(){
-        return  "Id: %d\nNombre: %s\n Precio: %2.f".formatted(id,nombre,precio);
+        return  "Id: %d\nNombre: %s\nPrecio: %f \n".formatted(id,nombre,precio);
    }
 
 
