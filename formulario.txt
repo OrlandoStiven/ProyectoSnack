@@ -1,0 +1,2 @@
+ nombre: orlando edad: 25 Sexo: hombre
+ nombre: daniela edad: 25 Sexo: mujer
