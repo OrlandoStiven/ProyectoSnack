@@ -3,3 +3,6 @@ lineas
 del
 archivoNuevo
  Contenido
+
+Nuevo
+ Contenido
